@@ -1,2 +1,2 @@
-# challenge-LATAM-CM
-Challege Latam Twitter
+# Challenge-LATAM-CM
+Challenge Latam Twitter
