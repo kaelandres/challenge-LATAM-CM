@@ -1,6 +1,6 @@
 # Información del challenge
 data = {
-    "name": "Tu Nombre",
+    "name": "Claudio Mora",
     "mail": "kaelandres@gmail.com",
     "github_url": "https://github.com/kaelandres/challenge-LATAM-CM.git"
 }
